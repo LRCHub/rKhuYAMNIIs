@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ひらり",
+  "base_artist": "GRe4N BOYZ",
+  "createdAt": "2026-03-22T06:00:46.323744Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "くるり 桜 ひらり",
+      "artist": "いとうかなこ",
+      "has_synced": false,
+      "path": "select/01_くるり_桜_ひらり_いとうかなこ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "くるり 桜 ひらり",
+      "artist": "Kanako Ito",
+      "has_synced": false,
+      "path": "select/02_くるり_桜_ひらり_Kanako_Ito.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スカート、ひらり(チームA Ver.)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/03_スカート、ひらり(チームA_Ver.)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hirari/ひらり",
+      "artist": "Sakurako Ohara",
+      "has_synced": true,
+      "path": "select/04_Hirari_ひらり_Sakurako_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スカート、ひらり",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/05_スカート、ひらり_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スカート、ひらり （Album Mix",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/06_スカート、ひらり_(Album_Mix_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スカート、ひらり(2015 BEST ver.)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/07_スカート、ひらり(2015_BEST_ver.)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スカート、ひらり（Album Mix）",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/08_スカート、ひらり(Album_Mix)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スカート、ひらり(RE-EDIT ver.)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/09_スカート、ひらり(RE-EDIT_ver.)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カート、ひらり(Album Mix)",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/10_カート、ひらり(Album_Mix)_AKB48.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "くるり 桜 ひらり",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/11_くるり_桜_ひらり_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スカート、ひらり",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/12_スカート、ひらり_AKB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひらり",
+      "artist": "GRe4N BOYZ",
+      "has_synced": false,
+      "path": "select/pl_01_ひらり_GRe4N_BOYZ.txt"
+    }
+  ]
+}
